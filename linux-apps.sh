@@ -19,5 +19,10 @@ sudo apt install vscode
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 
+
+sudo add-apt-repository ppa:slgobinath/gcalendar
+sudo apt update
+sudo apt install gcalendar
+
 sudo nano /etc/default/grub
 echo'keep replace quiet splash with profile'
