@@ -4,6 +4,8 @@
 
 chrome, adobe pdf reader, upgrading kernel, vlc...
 
+**Copy Paste the following commands in the terminal, one by one **
+
 1. Clone this repo in the terminal: `git clone https://github.com/nepbish07al/linux-apps.git`
 2. Go to the cloned folder: `cd linux-apps`
 3. Make the script file executable: `chmod +x linux-apps.sh`
